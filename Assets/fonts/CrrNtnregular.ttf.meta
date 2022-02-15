@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6fe419f1e6ce8054488cbc686e8ca168
+timeCreated: 1526421353
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CRRNTN-Regular
+  fontNames:
+  - CRRNTN-Regular
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
